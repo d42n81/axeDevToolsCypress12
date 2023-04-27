@@ -1,0 +1,11 @@
+{
+  "name": "yarnCypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@axe-devtools/cypress": "^4.6.1",
+    "@axe-devtools/reporter": "^4.5.1",
+    "cypress": "^12.11.0"
+  }
+}
