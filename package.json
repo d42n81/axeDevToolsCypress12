@@ -6,6 +6,6 @@
   "dependencies": {
     "@axe-devtools/cypress": "^4.6.1",
     "@axe-devtools/reporter": "^4.5.1",
-    "cypress": "^11.2.0"
+    "cypress": "12.17.3"
   }
 }
